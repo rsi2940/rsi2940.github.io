@@ -1,11 +1,11 @@
 {
   "author": "Rishi Khatiwada",
   "background_color": "#008cba",
-  "description": "Appointment Schedule Storing Web App",
+  "description": "Portfolio website of Rishi Khatiwada",
   "display": "fullscreen",
-  "name": "Appointment Scheduling",
+  "name": "Rishi | Portfolio",
   "orientation": "portrait",
-  "short_name": "Schedule",
+  "short_name": "Rishi",
   "start_url": ".",
   "theme_color": "#008cba",
   "icons": [
